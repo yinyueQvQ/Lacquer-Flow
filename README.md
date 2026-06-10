@@ -111,16 +111,6 @@ open demo/demo.xcodeproj
 
 ---
 
-## 截图
-
-<p align="center">
-  <img src="certify.jpg" alt="Certificate" width="220"/>
-  <img src="b215676b9b3290e048b8b113d7ab1d5d.jpg" alt="Screenshot 1" width="220"/>
-  <img src="c65746578d0331674bb0868d7d971a65.jpg" alt="Screenshot 2" width="220"/>
-</p>
-
----
-
 ## 许可证
 
 本项目仅供学习与文化传播用途。背景音乐、3D 模型等资源请遵守相应版权规定，商用前请自行确认授权。
